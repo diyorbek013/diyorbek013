@@ -2,7 +2,7 @@
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="100"/>
 </p>
 
-# Hi there, I'm Nosirbek 👋
+# Hi there, I'm Diyorbek 👋
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Web%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#FFA07A&vCenter=true&size=22"></a>
 </p>
@@ -11,11 +11,11 @@
 
 
 <p align="end">
-<a href="https://dev.to/xakimov1610"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
-<a href="https://twitter.com/xakimov1610" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a> 
+<a href="https://dev.to/diyorbek013"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
+<a href="https://twitter.com/diyorbek013" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a> 
 <a href="https://www.linkedin.com/in/xakimov-nosirbek-9ba2b8214/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
-<a href="https://t.me/xakimov1610"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
-<a href="https://instagram.com/xakimov1610"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
+<a href="https://t.me/diyorbek013"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
+<a href="https://instagram.com/diyorbek013"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
 <a href="https://www.facebook.com/nosirbek.xakimov.9"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
 </p>
 <h1> 👨🏻‍💻 Me now </h1>
@@ -44,9 +44,9 @@
 
 <div align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=xakimov1610&theme=algolia&hide_border=true&count_private=true&show_icons=true">
+    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=diyorbek013&theme=algolia&hide_border=true&count_private=true&show_icons=true">
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xakimov1610&theme=algolia&hide_border=true">
+    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=diyorbek013&theme=algolia&hide_border=true">
 
 </div>
 
@@ -54,24 +54,24 @@
 
   <div align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=xakimov1610&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
+    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=diyorbek013&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
   </div>
 
-<!-- [![Xakimov's Streak](https://github-readme-streak-stats.herokuapp.com?user=Xakimov1610&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
+<!-- [![Xakimov's Streak](https://github-readme-streak-stats.herokuapp.com?user=diyorbek013&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
-[![](https://komarev.com/ghpvc/?username=Xakimov1610&color=orange&label=Profile%20Views)](https://github.com/Xakimov1610/Xakimov1610)
-[![](https://img.shields.io/github/followers/Xakimov1610?label=GitHub%20Followers)](https://github.com/Xakimov1610) -->
+[![](https://komarev.com/ghpvc/?username=diyorbek013&color=orange&label=Profile%20Views)](https://github.com/diyorbek013/diyorbek013)
+[![](https://img.shields.io/github/followers/diyorbek013?label=GitHub%20Followers)](https://github.com/diyorbek013) -->
 
 
 <div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xakimov1610&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=12" height="90%">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbek013&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=12" height="90%">
 </div>
 <hr>
 
-<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/xakimov1610/count.svg"/></h3>
+<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/diyorbek013/count.svg"/></h3>
 
 <!--
-**Xakimov1610/Xakimov1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**diyorbek013/diyorbek013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
