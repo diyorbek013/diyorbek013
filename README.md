@@ -23,7 +23,7 @@
 - 🎓 &nbsp; Information Technology - Cambridge International University.
 - ⌛️ &nbsp; Currently I'm busy with:
   - 💼 &nbsp; Teaching programming at [Ilmhub IT School](https://ilmhub.uz)
-- 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/Devxakimov)
+- 📝 &nbsp; I share my ideas at [Telegram Blog]()
 - 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: diyorbekolimov13@gmail.com
 
