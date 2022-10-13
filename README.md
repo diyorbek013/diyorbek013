@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=.Net%20developer;Web%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#FFA07A&vCenter=true&size=22"></a>
 </p>
 
-> I'm Software Engineer from `Uzbekistan`. A software engineer building awesome web back/front stuff using .NET tech-stack at `Ilmhub inc`.
+> I'm .Net Developer from `Uzbekistan`. A .Net Developer building awesome web back/front stuff using .NET tech-stack at `Ilmhub inc`.
 
 
 <p align="end">
